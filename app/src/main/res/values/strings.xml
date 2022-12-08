@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quizzz</string>
+    <string name="play">Play</string>
+    <string name="his_play">History Play</string>
+    <string name="choose_topic">Choose the topic you want to play!</string>
+    <string name="choose_level">Choose the level you want to play!</string>
+    <string name="math">Math</string>
+    <string name="chem">Chemical</string>
+    <string name="geography">Geography</string>
+    <string name="his">History</string>
+    <string name="hard">Hard</string>
+    <string name="medium">Medium</string>
+    <string name="easy">Easy</string>
+    <string name="true_txt">True</string>
+    <string name="false_txt">False</string>
+    <string name="result_txt">YOUR SCORE: </string>
+    <string name="done">DONE</string>
+    <string name="share">Share your achievements</string>
+    <string name="info">Info</string>
+    <string name="feedback">Feedback</string>
+
+    <string name="info_content">
+        Developers:\n
+        Dang Tuan Anh\n
+        Nguyen Van Long\n\n
+        Contact us:\n
+        20021482@vnu.edu.vn\n
+        20021548@vnu.edu.vn
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
